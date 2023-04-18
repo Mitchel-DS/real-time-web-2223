@@ -115,7 +115,6 @@ We will have a final [peer review session](./course/peer-review.md). You will re
 |:--|:--|:--|
 | 14.00 | Tribe *+(Shyanta \|\| Justus)* | Peer review |
 | 15.30 | Tribe *+(Shyanta \|\| Justus)* | Finalize your assignment |
-| 16.00 | Tribe *+(Shyanta \|\| Justus)* | (drinks?!) |
 
 <!-- Here are some hints for your projects Readme.md! -->
 
