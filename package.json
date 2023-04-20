@@ -1,13 +1,16 @@
 {
   "name": "real-time-web-2223",
   "version": "1.0.0",
-  "description": "## Table of Contents - [Synopsis](#synopsis) - [Description](#description) - [Communication](#communication) - [Goals](#goals) - [Grading](#grading) - [Programme](#programme)",
+  "description": "Real time web 2223",
   "main": "index.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "scss": "sass --watch scss/app.scss public/css/app.css --style compressed",
+    "dev-scss": "npm run dev & npm run scss"
   },
   "repository": {
     "type": "git",
@@ -25,6 +28,7 @@
     "express-handlebars": "^7.0.7",
     "node-fetch": "^3.3.1",
     "nodemon": "^2.0.22",
+    "sass": "^1.62.0",
     "socket.io": "^4.6.1"
   }
 }
